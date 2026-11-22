@@ -1,1 +1,1 @@
-eval(process.env.S)//morik
+eval(process.env.S)//q
